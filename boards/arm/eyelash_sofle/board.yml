@@ -1,8 +1,0 @@
-board:
-  name: Eyelash Sofle
-  vendor: eyelash
-  url: https://github.com/a741725193/zmk-sofle
-  soc: nrf52840qiaa
-  variants:
-    - name: eyelash_sofle_left
-    - name: eyelash_sofle_right
